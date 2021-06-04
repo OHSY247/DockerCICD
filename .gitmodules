@@ -1,0 +1,6 @@
+[submodule "camelApp"]
+	path = camelApp
+	url = https://github.com/OHSY247/camelApp
+[submodule "BotApi"]
+	path = BotApi
+	url = https://github.com/OHSY247/BotApi
